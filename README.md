@@ -22,6 +22,6 @@
 
 #
 ### Proyectos destacados
-- **[StayAway]:** StayAway es una aplicación multiplataforma 📱🖥️ diseñada para revolucionar la experiencia de reserva en viajes y turismo. Con un enfoque integral, ofrece a los usuarios la capacidad de reservar hospedajes y actividades recreativas de manera eficiente. 
+- ***StayAway:*** StayAway es una aplicación multiplataforma 📱🖥️ diseñada para revolucionar la experiencia de reserva en viajes y turismo. Con un enfoque integral, ofrece a los usuarios la capacidad de reservar hospedajes y actividades recreativas de manera eficiente. 
 
 - **Repositorio del proyecto:** https://github.com/proyectosena020/ProyectoFinal?tab=readme-ov-file
